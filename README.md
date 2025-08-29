@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center"> Aspiring Data Scientist & Developer, passionate about building impactful tech.</div>  
   
 
